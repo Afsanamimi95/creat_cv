@@ -1,0 +1,22 @@
+body {
+    width: 50%;
+    margin: auto;
+}
+
+.header {
+    float: right;
+}
+
+
+
+
+img {
+    width: 200px;
+    height: 200px;
+}
+td {
+padding-left: 50px;
+}
+th {
+    text-align: left;
+}
